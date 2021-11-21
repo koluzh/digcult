@@ -1,0 +1,1 @@
+simple console application that gets 2 integer numbers as an input and returns their sum.
