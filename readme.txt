@@ -1,1 +1,1 @@
-simple console application that gets 2 integer numbers as an input and returns their sum.
+simple console application that calculates result of polish reverse notation
